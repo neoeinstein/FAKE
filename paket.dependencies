@@ -1,4 +1,4 @@
-content none
+content: none
 source http://nuget.org/api/v2
 
 nuget FSharp.Core
@@ -31,6 +31,4 @@ nuget FsCheck.Xunit
 nuget Machine.Specifications.Should
 nuget Machine.Specifications.Runner.Console
 nuget Nancy.Testing
-nuget xunit.extensions
 nuget xunit.runner.console
-nuget Newtonsoft.Json
